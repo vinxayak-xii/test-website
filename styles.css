@@ -41,11 +41,17 @@ body{
   }
   .three {
 
-    background: yellow;
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   }
   .four {
 
-    background: blue;
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   }
   
   .five {
